@@ -1,0 +1,6 @@
+﻿Telefon rehberi programında istenilenler
+1-) Ad soyad ve telefon olacak
+2-) kişiler eklendikçe dizi boyutu artacak
+3-) kişileri ekleme, listeleme, ada göre arama, silme işlemleri yapılabilecek
+4-) bir kişiye birden fazla telefon eklenebilecek
+5-) program class lar  ve metodlar kullanılarak yapılacak ve dinamik olacak

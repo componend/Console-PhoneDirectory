@@ -1,0 +1,8 @@
+BU projenin içinde 
+
+->Method kullanýmý
+->Class Kullanýmý
+->Array.size kullanýmý
+->Class nesnesi oluþturulmasý 
+
+var. 

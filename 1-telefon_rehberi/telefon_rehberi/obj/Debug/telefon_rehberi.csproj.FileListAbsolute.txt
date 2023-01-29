@@ -1,0 +1,14 @@
+C:\Users\mali\Desktop\C# 2016\telefon_rehberi\telefon_rehberi\bin\Debug\telefon_rehberi.exe.config
+C:\Users\mali\Desktop\C# 2016\telefon_rehberi\telefon_rehberi\obj\Debug\telefon_rehberi.csprojResolveAssemblyReference.cache
+C:\Users\mali\Desktop\C# 2016\telefon_rehberi\telefon_rehberi\bin\Debug\telefon_rehberi.exe
+C:\Users\mali\Desktop\C# 2016\telefon_rehberi\telefon_rehberi\bin\Debug\telefon_rehberi.pdb
+C:\Users\mali\Desktop\C# 2016\telefon_rehberi\telefon_rehberi\obj\Debug\telefon_rehberi.exe
+C:\Users\mali\Desktop\C# 2016\telefon_rehberi\telefon_rehberi\obj\Debug\telefon_rehberi.pdb
+D:\Calismalarim\1-telefon_rehberi\telefon_rehberi\bin\Debug\telefon_rehberi.exe.config
+D:\Calismalarim\1-telefon_rehberi\telefon_rehberi\bin\Debug\telefon_rehberi.exe
+D:\Calismalarim\1-telefon_rehberi\telefon_rehberi\bin\Debug\telefon_rehberi.pdb
+D:\Calismalarim\1-telefon_rehberi\telefon_rehberi\obj\Debug\telefon_rehberi.csproj.AssemblyReference.cache
+D:\Calismalarim\1-telefon_rehberi\telefon_rehberi\obj\Debug\telefon_rehberi.csproj.SuggestedBindingRedirects.cache
+D:\Calismalarim\1-telefon_rehberi\telefon_rehberi\obj\Debug\telefon_rehberi.csproj.CoreCompileInputs.cache
+D:\Calismalarim\1-telefon_rehberi\telefon_rehberi\obj\Debug\telefon_rehberi.exe
+D:\Calismalarim\1-telefon_rehberi\telefon_rehberi\obj\Debug\telefon_rehberi.pdb
